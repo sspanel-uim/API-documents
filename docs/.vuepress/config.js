@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/API-documents/',
     title: 'SSpenl-Uim Api文档',
     themeConfig: {
         nav: [{
