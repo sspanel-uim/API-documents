@@ -13,6 +13,9 @@ module.exports = {
             title: 'Global',
             path: '/Global'
         }, {
+            title: 'Auth',
+            path: '/Auth'
+        }, {
             title: 'User',
             path: '/User',
         }]
